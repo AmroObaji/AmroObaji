@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AmroObaji
-- 👀 I’m interested in Gaming
+- 👋 Hi, I’m Amro Obji
+- 👀 I’m interested in Learn programming
 - 🌱 I’m currently learning Php,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
