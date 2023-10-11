@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amro Obji
+- 👋 Hi, I’m Amro Obaji
 - 👀 I’m interested in Learn programming
 - 🌱 I’m currently learning Php,Python
 - 💞️ I’m looking to collaborate on ...
